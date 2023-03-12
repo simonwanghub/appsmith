@@ -1,0 +1,17 @@
+{
+	"ipaddress":{{ipaddress.inputText}},
+	"port":{{Port.inputText}},
+	"loginType":{{loginType.selectedOptionValue}},
+	"password":{{loginPassword.inputText}},
+	"identityKey":{
+		"password":{{identityPassword.inputText}},
+		"identityContent":{{identityContent.inputText}}
+	},
+	"ping":{
+		"pingTarget":{{pingTarget.inputText}},
+		"pingByte":{{pingByte.inputText}},
+		"pingCount":{{pingCount.inputText}},
+		"pingInterval":{{pingInterval.inputText}},
+		"pingTimeout":{{pingTimeout.inputText}}
+	}
+}

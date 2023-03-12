@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "call_all_target",
+    "pageId": "MonitorList",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "MonitorList_call_all_target",
+  "deleted": false,
+  "gitSyncId": "640bc3cba6cd403d617f6469_640bc8be6f7db351f05b90e6"
+}
